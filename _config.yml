@@ -1,6 +1,6 @@
 name: Gravity Inn
 favicon: null
-layout_spectrum: 0.7013259606901556
+layout_spectrum: 1
 typography_spectrum: 0.5170786031521857
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#1c211d'
-    - '#767072'
-    - '#88a452'
-    - '#e7c8b5'
+    - '#ebd6aa'
+    - '#462321'
+    - '#9f4836'
+    - '#d08724'
+    - '#95a976'
   brandStrength: 0.6994374187197536
   lightness: 0.871930034365505
-  saturation: 0.7475932068191469
+  saturation: 0.125
   rhythmicContrast: 0.9389345138333738
 purpose: []
