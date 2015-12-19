@@ -4,7 +4,7 @@
         <description><![CDATA[Gravity Inn]]></description>
         <link>https://thegrid.ai/gravity-inn/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Dec 2015 21:54:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Dec 2015 21:54:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gravity-inn/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Good food, nice people, excellent service, great prices - Review of The Gravity Inn Restaurant and Bar, Waymart, PA - TripAdvisor]]></title>
@@ -19,6 +19,13 @@
             <link>http://www.tripadvisor.com/Restaurant_Review-g53932-d1535243-Reviews-The_Gravity_Inn_Restaurant_and_Bar-Waymart_Pocono_Mountains_Region_Pennsylvania.html</link>
             <guid isPermaLink="false">a6ad7623-b9bd-4c49-a2a0-f45b6c525228</guid>
             <pubDate>Sat, 19 Dec 2015 21:29:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fair Fare, Best Service in Waymart - Review of The Gravity Inn Restaurant and Bar, Waymart, PA - TripAdvisor]]></title>
+            <description><![CDATA[<article><h1>Fair Fare, Best Service in Waymart - Review of The Gravity Inn Restaurant and Bar, Waymart, PA - TripAdvisor</h1><p>The Gravity Inn Restaurant and Bar: Fair Fare, Best Service in Waymart - See 18 traveler reviews, 5 candid photos, and great deals for Waymart, PA, at TripAdvisor.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b1c0c99c6a1a04a0cde7ef2b678d475c50ba2e80.jpg"></article>]]></description>
+            <link>http://www.tripadvisor.com/ShowUserReviews-g53932-d1535243-r241345951-The_Gravity_Inn_Restaurant_and_Bar-Waymart_Pocono_Mountains_Region_Pennsylvania.html#REVIEWS</link>
+            <guid isPermaLink="false">02e6fe12-d20d-4251-87f9-e7c437aeb2cd</guid>
+            <pubDate>Sat, 19 Dec 2015 21:53:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Gravity Inn Restaurant and Bar, Waymart - Menu, Prices & Restaurant Reviews - TripAdvisor]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.tripadvisor.com/Restaurant_Review-g53932-d1535243-Reviews-The_Gravity_Inn_Restaurant_and_Bar-Waymart_Pocono_Mountains_Region_Pennsylvania.html</link>
             <guid isPermaLink="false">bd184ea6-9a91-47b0-9e59-0fd8b3a325cd</guid>
             <pubDate>Sat, 19 Dec 2015 21:53:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://the-grid-user-content.s3-us-west-2.amazonaws.com/d7b9f417-f7fc-4bc8-9f5b-9459e7cbb41c.jpg">]]></description>
-            <link>https://thegrid.ai/gravity-inn/cba6793c-a5ab-4c14-9274-b6291c8ea802/index.html</link>
-            <guid isPermaLink="false">cba6793c-a5ab-4c14-9274-b6291c8ea802</guid>
-            <pubDate>Sat, 19 Dec 2015 21:53:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
