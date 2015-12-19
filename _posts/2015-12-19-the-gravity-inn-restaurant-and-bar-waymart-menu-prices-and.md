@@ -7,23 +7,27 @@ publisher:
   favicon: 'http://static.tacdn.com/favicon.ico'
   domain: www.tripadvisor.com
 keywords:
-  - restaurant
   - gravity
+  - restaurant
+  - cliff32
   - reviews
   - bar
-  - cliff32
-  - takeout
-  - food
-  - motel
-  - raved
+  - krajkovich
+  - respond
   - hello
+  - manage
+  - cliff
 description: 'The Gravity Inn Restaurant and Bar, Waymart: See 18 unbiased reviews of The Gravity Inn Restaurant and Bar, rated 4 of 5 on TripAdvisor and ranked #5 of 14 restaurants in Waymart.'
 inLanguage: en
-app_links: []
-isBasedOnUrl: 'http://www.tripadvisor.com/Restaurant_Review-g53932-d1535243-Reviews-or10-The_Gravity_Inn_Restaurant_and_Bar-Waymart_Pocono_Mountains_Region_Pennsylvan.html#REVIEWS'
+app_links:
+  - url: 'tripadvisor://www.tripadvisor.com/Restaurant_Review-g53932-d1535243-Reviews-m33762-The_Gravity_Inn_Restaurant_and_Bar-Waymart_Pocono_Mountains_Region_Pennsylv.html'
+    type: ios
+    app_name: TripAdvisor
+    app_store_id: '284876795'
+isBasedOnUrl: 'http://www.tripadvisor.com/Restaurant_Review-g53932-d1535243-Reviews-The_Gravity_Inn_Restaurant_and_Bar-Waymart_Pocono_Mountains_Region_Pennsylvania.html'
 title: 'The Gravity Inn Restaurant and Bar, Waymart - Menu, Prices & Restaurant Reviews - TripAdvisor'
-datePublished: '2015-12-19T21:31:37.786Z'
-dateModified: '2015-12-19T21:31:20.837Z'
+datePublished: '2015-12-19T21:53:25.126Z'
+dateModified: '2015-12-19T21:30:19.589Z'
 sourcePath: _posts/2015-12-19-the-gravity-inn-restaurant-and-bar-waymart-menu-prices-and.md
 published: true
 inFeed: true
