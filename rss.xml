@@ -4,7 +4,7 @@
         <description><![CDATA[Gravity Inn]]></description>
         <link>https://thegrid.ai/gravity-inn/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Dec 2015 21:53:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Dec 2015 21:53:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gravity-inn/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Good food, nice people, excellent service, great prices - Review of The Gravity Inn Restaurant and Bar, Waymart, PA - TripAdvisor]]></title>
@@ -19,6 +19,13 @@
             <link>http://www.tripadvisor.com/Restaurant_Review-g53932-d1535243-Reviews-The_Gravity_Inn_Restaurant_and_Bar-Waymart_Pocono_Mountains_Region_Pennsylvania.html</link>
             <guid isPermaLink="false">a6ad7623-b9bd-4c49-a2a0-f45b6c525228</guid>
             <pubDate>Sat, 19 Dec 2015 21:29:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Gravity Inn Restaurant and Bar, Waymart - Menu, Prices & Restaurant Reviews - TripAdvisor]]></title>
+            <description><![CDATA[<article><h1>The Gravity Inn Restaurant and Bar, Waymart - Menu, Prices & Restaurant Reviews - TripAdvisor</h1><p>The Gravity Inn Restaurant and Bar, Waymart: See 18 unbiased reviews of The Gravity Inn Restaurant and Bar, rated 4 of 5 on TripAdvisor and ranked #5 of 14 restaurants in Waymart.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b1c0c99c6a1a04a0cde7ef2b678d475c50ba2e80.jpg"></article>]]></description>
+            <link>http://www.tripadvisor.com/Restaurant_Review-g53932-d1535243-Reviews-The_Gravity_Inn_Restaurant_and_Bar-Waymart_Pocono_Mountains_Region_Pennsylvania.html</link>
+            <guid isPermaLink="false">bd184ea6-9a91-47b0-9e59-0fd8b3a325cd</guid>
+            <pubDate>Sat, 19 Dec 2015 21:53:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -67,13 +74,6 @@
             <link>https://www.facebook.com/photo.php?fbid=10202782267104883&amp;set=pb.1446557514.-2207520000.1450560319.&amp;type=3&amp;src=https%3A%2F%2Fscontent-lga3-1.xx.fbcdn.net%2Fhphotos-xap1%2Ft31.0-8%2F1487908_10202782267104883_818221282_o.jpg&amp;smallsrc=https%3A%2F%2Fscontent-lga3-1.xx.fbcdn.net%2Fhphotos-xpt1%2Fv%2Ft1.0-9%2F1469937_10202782267104883_818221282_n.jpg%3Foh%3D98b5071e02c2a8ffd73b2996d457f307%26oe%3D57109529&amp;size=760%2C1344</link>
             <guid isPermaLink="false">1948e674-3bb7-4f20-8ad3-2df04473cd5c</guid>
             <pubDate>Sat, 19 Dec 2015 21:27:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Welcome Page]]></title>
-            <description><![CDATA[<article><h1>Welcome Page</h1><p>Welcome to The Gravity Inn. </p></article>]]></description>
-            <link>https://thegrid.ai/gravity-inn/welcome-page/index.html</link>
-            <guid isPermaLink="false">70cd2362-52d8-49cc-aa45-c1a4c0c6b261</guid>
-            <pubDate>Fri, 18 Dec 2015 20:21:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
