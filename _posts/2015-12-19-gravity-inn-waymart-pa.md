@@ -16,8 +16,8 @@ app_links:
     app_store_id: '284910350'
 isBasedOnUrl: 'http://www.yelp.com/biz/gravity-inn-waymart'
 title: 'Gravity Inn - Waymart, PA'
-datePublished: '2015-12-19T21:53:43.617Z'
-dateModified: '2015-12-19T21:32:33.178Z'
+datePublished: '2015-12-19T21:53:43.714Z'
+dateModified: '2015-12-19T21:32:33.407Z'
 sourcePath: _posts/2015-12-19-gravity-inn-waymart-pa.md
 published: true
 inFeed: true
