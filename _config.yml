@@ -1,28 +1,40 @@
-name: Gravity Inn
-favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.5170786031521857
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ebd6aa'
-    - '#462321'
-    - '#9f4836'
-    - '#d08724'
-    - '#95a976'
-  brandStrength: 0.25
-  lightness: 0.5
-  saturation: 0.125
-  rhythmicContrast: 0.9389345138333738
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.125
+  lightness: 0.5
+  brandStrength: 0.749104
+  brandColors:
+    - '#160E0D'
+    - '#C5304B'
+    - '#FFFBFF'
+    - '#CFA391'
+    - '#AC7EFF'
+  rhythmicContrast: 0.9389345138333738
+typography_spectrum: 0.5170786031521857
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Gravity Inn
