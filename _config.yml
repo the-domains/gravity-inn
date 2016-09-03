@@ -1,8 +1,30 @@
-layout_spectrum: 1
+typography_spectrum: 0.5170786031521857
+color:
+  saturation: 0.125
+  lightness: 0.5
+  brandStrength: 0.749104
+  brandColors:
+    - '#160E0D'
+    - '#C5304B'
+    - '#FFFBFF'
+    - '#CFA391'
+    - '#AC7EFF'
+  rhythmicContrast: 0.9389345138333738
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 1
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Gravity Inn
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -15,26 +37,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: Restaurant & Bar
 purpose: []
-color:
-  saturation: 0.125
-  lightness: 0.5
-  brandStrength: 0.749104
-  brandColors:
-    - '#160E0D'
-    - '#C5304B'
-    - '#FFFBFF'
-    - '#CFA391'
-    - '#AC7EFF'
-  rhythmicContrast: 0.9389345138333738
-typography_spectrum: 0.5170786031521857
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Gravity Inn
